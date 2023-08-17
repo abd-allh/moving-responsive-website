@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.509" height="20.008" viewBox="0 0 21.509 20.008">
+  <g id="bus" transform="translate(-1.246 -2.246)">
+    <path id="Path_54414" data-name="Path 54414" d="M17.5,19H6.5a2,2,0,0,1-2-2V6a3,3,0,0,1,3-3h9a3,3,0,0,1,3,3V17A2,2,0,0,1,17.5,19Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+    <path id="Path_54415" data-name="Path 54415" d="M7.5,16h1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54416" data-name="Path 54416" d="M15.5,16h1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54417" data-name="Path 54417" d="M8.234,19v1.5a1,1,0,0,1-1,1h-1a1,1,0,0,1-1-1V18.547" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54418" data-name="Path 54418" d="M18.767,18.547V20.5a1,1,0,0,1-1,1h-1a1,1,0,0,1-1-1V19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54419" data-name="Path 54419" d="M19.5,7H21a1,1,0,0,1,1,1v3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54420" data-name="Path 54420" d="M4.5,7H3A1,1,0,0,0,2,8v3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54421" data-name="Path 54421" d="M18.358,3.642l-1.77,1.77A2,2,0,0,1,15.173,6H8.827a2,2,0,0,1-1.415-.586L5.64,3.64" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_54422" data-name="Path 54422" d="M19.5,13H4.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
